@@ -1,0 +1,180 @@
+{
+  "@context": {
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "pav": "http://purl.org/pav/",
+    "schema": "http://schema.org/",
+    "oslc": "http://open-services.net/ns/core#",
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "rdfs:label": {
+      "@type": "xsd:string"
+    },
+    "schema:isBasedOn": {
+      "@type": "@id"
+    },
+    "schema:name": {
+      "@type": "xsd:string"
+    },
+    "schema:description": {
+      "@type": "xsd:string"
+    },
+    "pav:derivedFrom": {
+      "@type": "@id"
+    },
+    "pav:createdOn": {
+      "@type": "xsd:dateTime"
+    },
+    "pav:createdBy": {
+      "@type": "@id"
+    },
+    "pav:lastUpdatedOn": {
+      "@type": "xsd:dateTime"
+    },
+    "oslc:modifiedBy": {
+      "@type": "@id"
+    },
+    "skos:notation": {
+      "@type": "xsd:string"
+    },
+    "Clusters": "https://schema.metadatacenter.org/properties/67ba57e9-6e74-4717-b3d2-180a7036a9f6",
+    "States": "https://schema.metadatacenter.org/properties/d986f1b1-c4a6-4084-ad0c-a21ca597aa27",
+    "Geopolitical zones": "https://schema.metadatacenter.org/properties/6b58dc29-2659-4111-a2f2-451486c76ce7",
+    "Latitude": "https://schema.metadatacenter.org/properties/4ee532d4-94cb-4683-afad-5e6d7b0bff2c",
+    "Longitude": "https://schema.metadatacenter.org/properties/5b376208-1b33-42e2-b2c9-dbb8336b947c",
+    "Population_Female": "https://schema.metadatacenter.org/properties/5d6b878a-cc18-4d8c-bd16-e17c59a216f8",
+    "Population_Male": "https://schema.metadatacenter.org/properties/8c3d3afc-4fd4-43f6-8e5d-98da773483a5",
+    "Population_Total": "https://schema.metadatacenter.org/properties/a64c77a2-caa6-4d13-baf7-ff855962ddc0",
+    "Lab Confirmed Cases": "https://schema.metadatacenter.org/properties/3715367d-6b08-4d0f-a751-c3204af39fd2",
+    "Cases on admission": "https://schema.metadatacenter.org/properties/2e83a911-ceab-4b17-baa5-716cf0fdbe23",
+    "Discharged Cases": "https://schema.metadatacenter.org/properties/743f5367-18ca-4efd-9563-64976dc91854",
+    "Death Cases": "https://schema.metadatacenter.org/properties/fb25829d-aa55-4b8a-9d6e-2d7cdd523274",
+    "Discharge rate": "https://schema.metadatacenter.org/properties/eb9b5619-652f-42b1-870e-bdaa6ffe6090",
+    "Fatality rate": "https://schema.metadatacenter.org/properties/e0a67b55-d8eb-4305-84c1-4da5c580cdcf",
+    "2019 Budget (bn)": "https://schema.metadatacenter.org/properties/4357d918-8f83-491c-ad97-437c58e4198c",
+    "2020 Initial budget (bn) presented": "https://schema.metadatacenter.org/properties/595c9e98-3419-4350-8299-766600a10c2c",
+    "2020 Revised budget (bn) due to COVID-19": "https://schema.metadatacenter.org/properties/d6366c38-19a1-4614-a3a9-cc0dad7a31ed",
+    "Percentage Reduction": "https://schema.metadatacenter.org/properties/2d68b05a-905c-45c8-8d44-f0936a2b8e0c",
+    "FAAC 2019 (bn)": "https://schema.metadatacenter.org/properties/483a1156-f572-4219-b016-30a7442a90e0",
+    "IGR 2019 (bn)": "https://schema.metadatacenter.org/properties/f05e3724-4a6d-4966-9a2a-3e135b4b10a6",
+    "Total revenue available in 2019 (bn)": "https://schema.metadatacenter.org/properties/7beb75c3-29df-4bcf-9c5f-dfd973eaad89",
+    "Total revenue available in 2018 (bn)": "https://schema.metadatacenter.org/properties/0d4bb9d0-17e3-4799-882d-dbee509d3b0d",
+    "Primary health care": "https://schema.metadatacenter.org/properties/65e985e7-9658-495d-9299-34ab475406a4",
+    "Secondary health care": "https://schema.metadatacenter.org/properties/ec54fbc1-42e5-474c-81f8-a2eb4f70ce5d",
+    "Tertiary": "https://schema.metadatacenter.org/properties/c7812edf-4dd5-4c51-a760-66ce6b247442",
+    "Health care total": "https://schema.metadatacenter.org/properties/de3f83a3-20af-4c64-8e18-ddf0912fbdae",
+    "COVID-19_lab": "https://schema.metadatacenter.org/properties/2a1ad708-2ca8-406b-9e09-028841fdc8d7"
+  },
+  "Clusters": {
+    "@value": null
+  },
+  "States": {
+    "@value": null
+  },
+  "Geopolitical zones": {
+    "@value": null
+  },
+  "Latitude": {
+    "@value": null,
+    "@type": "xsd:decimal"
+  },
+  "Longitude": {
+    "@value": null,
+    "@type": "xsd:decimal"
+  },
+  "Population_Female": {
+    "@value": null,
+    "@type": "xsd:decimal"
+  },
+  "Population_Male": {
+    "@value": null,
+    "@type": "xsd:decimal"
+  },
+  "Population_Total": {
+    "@value": null,
+    "@type": "xsd:decimal"
+  },
+  "Lab Confirmed Cases": {
+    "@value": null,
+    "@type": "xsd:decimal"
+  },
+  "Cases on admission": {
+    "@value": null,
+    "@type": "xsd:decimal"
+  },
+  "Discharged Cases": {
+    "@value": null,
+    "@type": "xsd:decimal"
+  },
+  "Death Cases": {
+    "@value": null,
+    "@type": "xsd:decimal"
+  },
+  "Discharge rate": {
+    "@value": null,
+    "@type": "xsd:decimal"
+  },
+  "Fatality rate": {
+    "@value": null,
+    "@type": "xsd:decimal"
+  },
+  "2019 Budget (bn)": {
+    "@value": null,
+    "@type": "xsd:decimal"
+  },
+  "2020 Initial budget (bn) presented": {
+    "@value": null,
+    "@type": "xsd:decimal"
+  },
+  "2020 Revised budget (bn) due to COVID-19": {
+    "@value": null,
+    "@type": "xsd:decimal"
+  },
+  "Percentage Reduction": {
+    "@value": null,
+    "@type": "xsd:decimal"
+  },
+  "FAAC 2019 (bn)": {
+    "@value": null,
+    "@type": "xsd:decimal"
+  },
+  "IGR 2019 (bn)": {
+    "@value": null,
+    "@type": "xsd:decimal"
+  },
+  "Total revenue available in 2019 (bn)": {
+    "@value": null,
+    "@type": "xsd:decimal"
+  },
+  "Total revenue available in 2018 (bn)": {
+    "@value": null,
+    "@type": "xsd:decimal"
+  },
+  "Primary health care": {
+    "@value": null,
+    "@type": "xsd:decimal"
+  },
+  "Secondary health care": {
+    "@value": null,
+    "@type": "xsd:decimal"
+  },
+  "Tertiary": {
+    "@value": null,
+    "@type": "xsd:decimal"
+  },
+  "Health care total": {
+    "@value": null,
+    "@type": "xsd:decimal"
+  },
+  "COVID-19_lab": {
+    "@value": null,
+    "@type": "xsd:decimal"
+  },
+  "schema:isBasedOn": "https://repo.metadatacenter.org/templates/1eb0a2cb-a609-4de9-a248-eb9cff13d104",
+  "schema:name": "EcoSocialAnalysis metadata",
+  "schema:description": "",
+  "pav:createdOn": "2021-03-14T11:17:35-07:00",
+  "pav:createdBy": "https://metadatacenter.org/users/2266a674-bb41-4199-8042-9bdafe598a5d",
+  "pav:lastUpdatedOn": "2021-03-14T11:17:35-07:00",
+  "oslc:modifiedBy": "https://metadatacenter.org/users/2266a674-bb41-4199-8042-9bdafe598a5d",
+  "@id": "https://repo.metadatacenter.org/template-instances/80ff2dd6-de71-449f-af27-cb85516cfd09"
+}

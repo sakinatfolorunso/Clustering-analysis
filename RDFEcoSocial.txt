@@ -1,0 +1,7 @@
+<https://repo.metadatacenter.org/template-instances/80ff2dd6-de71-449f-af27-cb85516cfd09> <http://open-services.net/ns/core#modifiedBy> <https://metadatacenter.org/users/2266a674-bb41-4199-8042-9bdafe598a5d> .
+<https://repo.metadatacenter.org/template-instances/80ff2dd6-de71-449f-af27-cb85516cfd09> <http://purl.org/pav/createdBy> <https://metadatacenter.org/users/2266a674-bb41-4199-8042-9bdafe598a5d> .
+<https://repo.metadatacenter.org/template-instances/80ff2dd6-de71-449f-af27-cb85516cfd09> <http://purl.org/pav/createdOn> "2021-03-14T11:17:35-07:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<https://repo.metadatacenter.org/template-instances/80ff2dd6-de71-449f-af27-cb85516cfd09> <http://purl.org/pav/lastUpdatedOn> "2021-03-14T11:17:35-07:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<https://repo.metadatacenter.org/template-instances/80ff2dd6-de71-449f-af27-cb85516cfd09> <http://schema.org/description> "" .
+<https://repo.metadatacenter.org/template-instances/80ff2dd6-de71-449f-af27-cb85516cfd09> <http://schema.org/isBasedOn> <https://repo.metadatacenter.org/templates/1eb0a2cb-a609-4de9-a248-eb9cff13d104> .
+<https://repo.metadatacenter.org/template-instances/80ff2dd6-de71-449f-af27-cb85516cfd09> <http://schema.org/name> "EcoSocialAnalysis metadata" .
